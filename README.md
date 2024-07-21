@@ -1,4 +1,4 @@
-# Hi there, I'm Rishit👋
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 I'm currently working on some Angular based projects<br>I'm currently learning Python libraries, DevOps and Machine Learning<br>I'm a MEAN stack Developer
